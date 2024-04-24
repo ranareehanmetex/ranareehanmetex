@@ -50,9 +50,9 @@
 
 <p align="center">
 <a href="https://github.com/ranareehanaslam">
-  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ranareehanmetex&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ranareehanmetex&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 
 
